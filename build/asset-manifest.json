@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mcontreraz/desafio_acl/static/css/main.ff69eb16.chunk.css",
+    "main.js": "/mcontreraz/desafio_acl/static/js/main.490fd8e8.chunk.js",
+    "main.js.map": "/mcontreraz/desafio_acl/static/js/main.490fd8e8.chunk.js.map",
+    "runtime-main.js": "/mcontreraz/desafio_acl/static/js/runtime-main.0d660557.js",
+    "runtime-main.js.map": "/mcontreraz/desafio_acl/static/js/runtime-main.0d660557.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/mcontreraz/desafio_acl/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5dd4f746.chunk.js": "/mcontreraz/desafio_acl/static/js/2.5dd4f746.chunk.js",
+    "static/js/2.5dd4f746.chunk.js.map": "/mcontreraz/desafio_acl/static/js/2.5dd4f746.chunk.js.map",
+    "static/js/3.73c87677.chunk.js": "/mcontreraz/desafio_acl/static/js/3.73c87677.chunk.js",
+    "static/js/3.73c87677.chunk.js.map": "/mcontreraz/desafio_acl/static/js/3.73c87677.chunk.js.map",
+    "index.html": "/mcontreraz/desafio_acl/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/mcontreraz/desafio_acl/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.ff69eb16.chunk.css.map": "/mcontreraz/desafio_acl/static/css/main.ff69eb16.chunk.css.map",
+    "static/js/2.5dd4f746.chunk.js.LICENSE.txt": "/mcontreraz/desafio_acl/static/js/2.5dd4f746.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d660557.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.5dd4f746.chunk.js",
+    "static/css/main.ff69eb16.chunk.css",
+    "static/js/main.490fd8e8.chunk.js"
+  ]
+}
