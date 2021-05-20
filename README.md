@@ -2,7 +2,9 @@
 
 Bajar o copiar directamente con git clone
 
-Ingrear a carpeta /desafio-acl
+Ingresar a carpeta /desafio-acl
+
+Instalar react-scripts en caso de ser necesario
 
 Correr en modo de desarrollo (npm start).\
 Open [http://localhost:3000](http://localhost:3000) para ver en el navegador
